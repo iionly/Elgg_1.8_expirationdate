@@ -5,7 +5,7 @@
         <version>1.8.0</version>
         <category>enhancement</category>
         <description>Provides a method to set an expiration date for entities and to delete the entities after that date.</description>
-        <website>https://github.com/iionly</website>
+        <website>https://github.com/iionly/Elgg_1.8_expirationdate</website>
         <copyright>(C) iionly , Brett Profitt 2009-2012</copyright>
         <license>GNU Public License version 2</license>
         <requires>
