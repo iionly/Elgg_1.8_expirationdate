@@ -1,6 +1,6 @@
 Expirationdate plugin for Elgg 1.8
-Latest Version: 1.8.0
-Released: 2012-01-10
+Latest Version: 1.8.1
+Released: 2012-06-09
 Contact: iionly@gmx.de
 License: GNU General Public License version 2
 Copyright: (c) Brett Profitt (Original developer) / iionly (for Elgg 1.8)
@@ -50,6 +50,10 @@ This can be used to send out warning emails, etc.
 
 
 ** Changes **
+
+v1.8.1
+* French translation added (thank to emanwebdev),
+* German translation added.
 
 v1.8
 * Updated for Elgg 1.8 (by iionly)
